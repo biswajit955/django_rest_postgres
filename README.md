@@ -1,4 +1,4 @@
-MAIN CODE RESIDE INSIDE src
+# MAIN CODE RESIDE INSIDE src
 
 Here i can able to achive these :
 
