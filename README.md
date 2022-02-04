@@ -2,6 +2,8 @@
 
 Here i can able to achive these :
 
+## i create work this virtual environment. so, use this ( DRF-env\Scripts\activate.bat )
+
 ## 1. User Sign Up (http://127.0.0.1:8000/api/profile-singup/)
 
 simlpy just put all the details in email,name,password and your profile gets created you can check by reloading
